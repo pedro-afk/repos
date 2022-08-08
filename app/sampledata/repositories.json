@@ -1,0 +1,334 @@
+{
+  "data": [
+    {
+      "id": 504703697,
+      "name": "api-collections",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/api-collections",
+      "language": "Kotlin",
+      "description": null
+    },
+    {
+      "id": 296146109,
+      "name": "API-Javascript",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/API-Javascript",
+      "language": "JavaScript",
+      "description": "API Javascript, NodeJS, MongoDB, Express"
+    },
+    {
+      "id": 519000940,
+      "name": "api-products",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/api-products",
+      "language": null,
+      "description": null
+    },
+    {
+      "id": 361585876,
+      "name": "artlist",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/artlist",
+      "language": "JavaScript",
+      "description": null
+    },
+    {
+      "id": 372631409,
+      "name": "basic-store",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/basic-store",
+      "language": "JavaScript",
+      "description": null
+    },
+    {
+      "id": 313048113,
+      "name": "bot-discord",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/bot-discord",
+      "language": "JavaScript",
+      "description": "Desenvolvimento bot com Node.JS e Discord.JS"
+    },
+    {
+      "id": 520732207,
+      "name": "business-card",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/business-card",
+      "language": "Kotlin",
+      "description": null
+    },
+    {
+      "id": 329462091,
+      "name": "controle-de-estoque",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/controle-de-estoque",
+      "language": "PHP",
+      "description": "Desenvolvimento de um simples controle de estoque em HTML, CSS e PHP"
+    },
+    {
+      "id": 293823629,
+      "name": "CRUD-API-Typescript",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/CRUD-API-Typescript",
+      "language": "TypeScript",
+      "description": "CRUD API usando NodeJS, Typescript e PostgreSQL com o KnexJS"
+    },
+    {
+      "id": 481419325,
+      "name": "dice-roller",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/dice-roller",
+      "language": "Kotlin",
+      "description": "Jogo do dado 1..6 android com Kotlin"
+    },
+    {
+      "id": 498520621,
+      "name": "digionebank",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/digionebank",
+      "language": "Kotlin",
+      "description": null
+    },
+    {
+      "id": 506827061,
+      "name": "dio-matches-simulator",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/dio-matches-simulator",
+      "language": "Java",
+      "description": null
+    },
+    {
+      "id": 519073355,
+      "name": "dio-soccer-news",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/dio-soccer-news",
+      "language": "Java",
+      "description": "Aplicativo Android Nativo sobre noticias relacionadas ao futebol"
+    },
+    {
+      "id": 448931192,
+      "name": "estudos-php",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/estudos-php",
+      "language": null,
+      "description": "🐘 Repositório criado para mostrar minha evolução em PHP."
+    },
+    {
+      "id": 478850293,
+      "name": "get_zip_code",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/get_zip_code",
+      "language": "C++",
+      "description": "A simple app to get address data by zipcode"
+    },
+    {
+      "id": 256209461,
+      "name": "IMC-Project",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/IMC-Project",
+      "language": "CSS",
+      "description": "This project calculate your IMC!"
+    },
+    {
+      "id": 508517696,
+      "name": "matches-simulator-api",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/matches-simulator-api",
+      "language": null,
+      "description": "Repositório que simula uma API REST para obtenção de partidas"
+    },
+    {
+      "id": 328715271,
+      "name": "myblog",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/myblog",
+      "language": "JavaScript",
+      "description": "Desenvolvimento de um blog utilizando as tecnologias React.JS, Node.JS e PostgreSQL"
+    },
+    {
+      "id": 380545461,
+      "name": "nlw6-together",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/nlw6-together",
+      "language": "TypeScript",
+      "description": null
+    },
+    {
+      "id": 368044839,
+      "name": "only-banks",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/only-banks",
+      "language": "Dart",
+      "description": "Este é um protótipo de um app de banco digital desenvolvido em flutter"
+    },
+    {
+      "id": 448922674,
+      "name": "pedro-afk",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/pedro-afk",
+      "language": null,
+      "description": null
+    },
+    {
+      "id": 392124339,
+      "name": "POO-Java",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/POO-Java",
+      "language": "Java",
+      "description": null
+    },
+    {
+      "id": 448924309,
+      "name": "rahul-jha98",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/rahul-jha98",
+      "language": null,
+      "description": null
+    },
+    {
+      "id": 329463723,
+      "name": "semanaOmnistack11",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/semanaOmnistack11",
+      "language": "JavaScript",
+      "description": "Desenvolvimento de uma aplicação com intuito de auxiliar Ongs a encontrar trabalhos voluntarios e reveber doações "
+    },
+    {
+      "id": 518995796,
+      "name": "soccer-news-api",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/soccer-news-api",
+      "language": null,
+      "description": "API (provida via GitHub Pages) do App \"Soccer News\""
+    },
+    {
+      "id": 518995634,
+      "name": "soccer-news-app",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/soccer-news-app",
+      "language": null,
+      "description": "App Nativo Android de Notícias Sobre Futebol Feminino (Mês da Mulher)"
+    },
+    {
+      "id": 504876499,
+      "name": "stock-control",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/stock-control",
+      "language": "HTML",
+      "description": "JavaServer Pages controle de estoque"
+    },
+    {
+      "id": 481360914,
+      "name": "tip-time",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/tip-time",
+      "language": "Kotlin",
+      "description": "App desenvolvido em Kotlin para calcular gorjeta"
+    },
+    {
+      "id": 448919112,
+      "name": "Tur1st4",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/Tur1st4",
+      "language": null,
+      "description": "Config files for my GitHub profile."
+    },
+    {
+      "id": 447810028,
+      "name": "weather-app",
+      "owner": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/55630417?v=4",
+        "login": "pedro-afk"
+      },
+      "html_url": "https://github.com/pedro-afk/weather-app",
+      "language": "Dart",
+      "description": "It's an app developed with a framework flutter, language dart, requests API REST, mobx for state management"
+    }
+  ]
+}

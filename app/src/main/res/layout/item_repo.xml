@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:cardCornerRadius="@dimen/cardview_default_radius"
+    app:cardElevation="@dimen/cardview_default_elevation"
+    android:layout_margin="10dp"
+    app:cardUseCompatPadding="true">
+    
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/iv_owner"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            tools:srcCompat="@tools:sample/avatars"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/tv_repo_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textStyle="bold"
+            tools:text="Titulo do repositório"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/iv_owner"
+            app:layout_constraintEnd_toEndOf="parent"  />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/tv_repo_description"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:ellipsize="end"
+            android:maxLines="2"
+            tools:text="Descricao do repositório"
+            app:layout_constraintStart_toStartOf="@+id/tv_repo_name"
+            app:layout_constraintTop_toBottomOf="@+id/tv_repo_name"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_star"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            tools:text="10"
+            app:chipBackgroundColor="@color/white"
+            app:chipIcon="@drawable/ic_star"
+            app:chipIconTint="#FFC107"
+            app:layout_constraintTop_toBottomOf="@+id/tv_repo_description"
+            app:layout_constraintStart_toStartOf="@+id/tv_repo_name" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/tv_repo_language"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:ellipsize="end"
+            android:maxLines="2"
+            tools:text="Java"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintBottom_toBottomOf="@+id/chip_star"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</com.google.android.material.card.MaterialCardView>
